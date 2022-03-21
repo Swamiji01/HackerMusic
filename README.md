@@ -1,13 +1,13 @@
-<h2 align="centre">🇮🇳𝗗𝗲𝘃𝗶𝗹 𝗛𝗮𝗰𝗸𝗲𝗿 𝗠𝘂𝘀𝗶𝗰🇮🇳</h2>
+<h2 align="centre">🇮🇳𝐑𝐀𝐖 𝐌𝐔𝐒𝐈𝐂 𝐁𝐎𝐓🇮🇳</h2>
 
-### 𝗗𝗲𝘃𝗶𝗹 𝗛𝗮𝗰𝗸𝗲𝗿 𝗠𝘂𝘀𝗶𝗰 ɪꜱ ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴘʀᴏᴊᴇᴄᴛ ʙᴀꜱᴇᴅ ᴏɴ ᴘʏʀᴏɢʀᴀᴍ ꜰᴏʀ ᴘʟᴀʏ ᴍᴜꜱɪᴄꜱ ɪɴ ᴠᴄ ᴄʜᴀᴛꜱ...
+### 𝐑𝐀𝐖 𝐌𝐔𝐒𝐈𝐂 𝐁𝐎𝐓 ɪꜱ ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴘʀᴏᴊᴇᴄᴛ ʙᴀꜱᴇᴅ ᴏɴ ᴘʏʀᴏɢʀᴀᴍ ꜰᴏʀ ᴘʟᴀʏ ᴍᴜꜱɪᴄꜱ ɪɴ ᴠᴄ ᴄʜᴀᴛꜱ...
 
-<p align="center"><a href="https://t.me/JaiHindChatting"><img src="https://telegra.ph/file/98028a641d5e7935b6786.jpg" width="300"></a></p>
+<p align="center"><a href="https://t.me/tele_family_69"><img src="https://telegra.ph/file/98028a641d5e7935b6786.jpg" width="300"></a></p>
 
 
 
 ### ꜱᴜᴘᴘᴏʀᴛ ᴀɴᴅ ᴜᴘᴅᴀᴛᴇꜱ🎑
-<a href="https://t.me/JaiHindChatting"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram">
+<a href="https://t.me/tele_family_69"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram">
 
 ### ᴄᴏᴍᴍᴀɴᴅs 🛠
 #### ғᴏʀ ᴀʟʟ ᴍᴇᴍʙᴇʀs ɪɴ ɢʀᴏᴜᴘ
@@ -25,7 +25,7 @@
 
 # ɢᴇɴᴇʀᴀᴛᴇ ᴘʏʀᴏɢʀᴀᴍ sᴛʀɪɴɢ sᴇssɪᴏɴ
 
-[Repl Link](https://t.me/JaiHindChatting) to get pyrogram string session
+[Repl Link](https://t.me/tele_family_69) to get pyrogram string session
 
 
     ## 𝐃𝐞𝐩𝐥𝐨𝐲 𝐎𝐧 Railway 🚀
